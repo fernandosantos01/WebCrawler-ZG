@@ -1,5 +1,6 @@
 .gradle
 build/
+Downloads/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
@@ -63,6 +64,7 @@ radle-app.setting
 
 # Package Files #
 *.jar
+!gradle/wrapper/gradle-wrapper.jar
 *.war
 *.ear
 
