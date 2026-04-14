@@ -170,7 +170,7 @@ Competencia;Publicação;Inicio_Vigencia
 | Tamanho máximo do body | Ilimitado (`0`) |
 | Encoding do CSV | `UTF-8` |
 | Separador CSV | `;` (ponto e vírgula) |
-| Linha de corte do histórico | `Jan/2016` (inclusive) |
+| Linha de corte do histórico | `Jan/2016`|
 
 ### Dependências
 
@@ -215,6 +215,12 @@ O crawler lança `IOException` com mensagens descritivas nos seguintes cenários
 ## 📄 Licença
 
 Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+
+---
+
+✍️ Autor
+
+Fernando Santos 🚀
 
 ---
 
